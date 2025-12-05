@@ -41,7 +41,7 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :-----: |
 | 01 |Hospital Management System Using Java| [Project-1](https://github.com/NawarNafisha/2110026_projects/tree/main/Software%20Projects/Hospital_Management_System_using_JAVA)|
 | 02 | Responsive Travel and Tour Website (frontend)| [Project-02](https://github.com/NawarNafisha/2110026_projects/tree/main/Software%20Projects/Travel_and_Tour_website)|
-| 03| Responsive Travel and Tour Website with Admin panel| [Project-03](https://github.com/NawarNafisha/ECE-3222_2110026/blob/main/Lab_reports/Lab_03.md)|
-| 04|  Implementation and Analysis of Banker’s Algorithm for Deadlock Avoidance and Resource Request Handling. | [Lab 04](https://github.com/NawarNafisha/ECE-3222_2110026/blob/main/Lab_reports/Lab_04.md)|
+| 03| Responsive Travel and Tour Website with Admin panel| [Project-03](https://github.com/NawarNafisha/2110026_projects/tree/main/Software%20Projects/Travel_and_Tour_website_W_adminPanel)|
+
 </div>
 
