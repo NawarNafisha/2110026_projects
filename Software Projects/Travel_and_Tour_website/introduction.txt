@@ -1,1 +1,1 @@
-
+This project presents a Travel and Tour Management Website developed as part of the Software Development Project 1 course (ECE-2100). The primary goal of this project was to demonstrate and apply my foundational knowledge of HTML, CSS, and JavaScript by designing an interactive, user-friendly frontend interface.
