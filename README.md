@@ -39,7 +39,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | | [Lab 01]()|
+| 01 |Hospital Management System Using Java| [Project-1]()|
 | 02 | Study of SJF Scheduling Algorithms (Non-Preemptive and Preemptive) Considering Arrival Time and CPU Idle Condition | [Lab 02](https://github.com/NawarNafisha/ECE-3222_2110026/blob/main/Lab_reports/Lab_02.md)|
 | 03| Study of Round Robin Scheduling Under Different Conditions (No Arrival Time, With Arrival Time, and With Overhead) | [Lab 03](https://github.com/NawarNafisha/ECE-3222_2110026/blob/main/Lab_reports/Lab_03.md)|
 | 04|  Implementation and Analysis of Banker’s Algorithm for Deadlock Avoidance and Resource Request Handling. | [Lab 04](https://github.com/NawarNafisha/ECE-3222_2110026/blob/main/Lab_reports/Lab_04.md)|
